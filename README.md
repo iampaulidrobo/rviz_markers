@@ -18,6 +18,7 @@ In terminal-1:
 Output:
 ![Screenshot from 2022-07-04 22-08-34](https://user-images.githubusercontent.com/22745024/177194787-460f9a82-a8d1-4ab5-b09c-f6ad70dc737c.png)
 **plugin_tutorial**
+
 Make sure to have "map" as fixed frame_id in the rviz2 visualization
 In terminal-1:
 ```bash
