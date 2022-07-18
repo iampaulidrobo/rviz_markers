@@ -54,4 +54,14 @@ Output:
 ![Screenshot from 2022-07-04 22-11-32](https://user-images.githubusercontent.com/22745024/177195010-051db5f5-2f0f-4fdd-8132-8c1105b4fadf.png)
 ![Screenshot from 2022-07-04 22-11-34](https://user-images.githubusercontent.com/22745024/177195018-0d242452-2335-44ad-bcda-2e580bb78434.png)
 
+**QT BASED SIMPLE GUI**
+In terminal-1:
+```bash
+    ros2 run gui megui
+```
+Output:
+![Screenshot from 2022-07-18 19-42-24](https://user-images.githubusercontent.com/22745024/179530831-8813d80c-7d84-425b-9715-d676e4d444d3.png)
+![Screenshot from 2022-07-18 19-42-28](https://user-images.githubusercontent.com/22745024/179530852-075c06c6-db86-4790-a2c5-2680b67e0807.png)
+
+
 
